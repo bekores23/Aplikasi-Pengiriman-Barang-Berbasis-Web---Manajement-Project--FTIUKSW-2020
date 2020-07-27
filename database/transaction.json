@@ -1,0 +1,286 @@
+[
+    {
+        "Resi": "9A9C0F6FBABF",
+        "Hari": "Selasa",
+        "Tanggal": "21-07-2020",
+        "Waktu": "02:27:02",
+        "CabangAsal": "Surabaya",
+        "CabangTujuan": "Solo",
+        "NamaPengirim": "Junio Caesar Delano",
+        "AlamatPengirim": "Jl. Dlikoindah VII No.99, Blotongan, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50715",
+        "NoPengirim": "081225130878",
+        "NamaPenerima": "Dwicky",
+        "AlamatPenerima": "Jl. Kanginan 9-27, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+        "NoPenerima": "081212121212",
+        "Berat": "4",
+        "Deskripsi": "Meja",
+        "Jnspengemasan": "Peti Kayu",
+        "Jnspengiriman": "Express",
+        "Biaya": "26.000,00",
+        "Status": "Delivered",
+        "Transaksi": [
+            {
+                "Tanggal": "21-07-2020",
+                "Waktu": "02:27:02",
+                "Cabang": "Surabaya",
+                "Status": "Manifest",
+                "Pesan": "Manifest di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:26:34pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:30:57pm",
+                "Cabang": "Surabaya",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:31:03pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:31:05pm",
+                "Cabang": "Surabaya",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:31:09pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:31:57pm",
+                "Cabang": "Surabaya",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:32:01pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:33:07pm",
+                "Cabang": "Surabaya",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:34:34pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:34:37pm",
+                "Cabang": "Surabaya",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:34:43pm",
+                "Cabang": "Surabaya",
+                "Status": "Barang Sudah Sampai Tujuan",
+                "Pesan": "Barang Sudah Sampai Tujuan"
+            }
+        ]
+    },
+    {
+        "Resi": "051C6B2F5F57",
+        "Hari": "Selasa",
+        "Tanggal": "21-07-2020",
+        "Waktu": "02:38:02",
+        "CabangAsal": "Surabaya",
+        "CabangTujuan": "Jakarta",
+        "NamaPengirim": "Junio Caesar Delano",
+        "AlamatPengirim": "Jl. Dlikoindah VII No.99, Blotongan, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50715",
+        "NoPengirim": "081225130878",
+        "NamaPenerima": "Dwicky",
+        "AlamatPenerima": "Jl. Kanginan 9-27, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+        "NoPenerima": "081212121212",
+        "Berat": "13",
+        "Deskripsi": "sdfgsdfg",
+        "Jnspengemasan": "Peti Kayu",
+        "Jnspengiriman": "Reguler",
+        "Biaya": "45.900,00",
+        "Status": "onTransit",
+        "Transaksi": [
+            {
+                "Tanggal": "21-07-2020",
+                "Waktu": "02:38:02",
+                "Cabang": "Surabaya",
+                "Status": "Manifest",
+                "Pesan": "Manifest di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:26:32pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:30:50pm",
+                "Cabang": "Surabaya",
+                "Status": "Transit",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:30:54pm",
+                "Cabang": "Surabaya",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "10:31:51pm",
+                "Cabang": "Surabaya",
+                "Status": "Transit",
+                "Pesan": "Barang sudah sampai di Surabaya"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:29:29am",
+                "Cabang": "Semarang",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:33:51am",
+                "Cabang": "Semarang",
+                "Status": "Transit",
+                "Pesan": "Barang sudah sampai di Semarang"
+            }
+        ]
+    },
+    {
+        "Resi": "C421B004B2A8",
+        "Hari": "Selasa",
+        "Tanggal": "21-07-2020",
+        "Waktu": "04:00:13",
+        "CabangAsal": "Solo",
+        "CabangTujuan": "Malang",
+        "NamaPengirim": "Dwicky",
+        "AlamatPengirim": "Jl. Dlikoindah VII No.99, Blotongan, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50715",
+        "NoPengirim": "081225130878",
+        "NamaPenerima": "Anggi Anggara",
+        "AlamatPenerima": "Jl. Kanginan 9-27, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+        "NoPenerima": "081212121212",
+        "Berat": "0.5",
+        "Deskripsi": "gantungan",
+        "Jnspengemasan": "Amplop",
+        "Jnspengiriman": "Express",
+        "Biaya": "0,00",
+        "Status": "Delivered",
+        "Transaksi": [
+            {
+                "Tanggal": "21-07-2020",
+                "Waktu": "04:00:13",
+                "Cabang": "Solo",
+                "Status": "Manifest",
+                "Pesan": "Manifest di Solo"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "11:04:38pm",
+                "Cabang": "Solo",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "20-07-2020",
+                "Waktu": "11:05:27pm",
+                "Cabang": "Solo",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Solo"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:29:40am",
+                "Cabang": "Semarang",
+                "Status": "Barang Sudah Sampai Tujuan",
+                "Pesan": "Barang Sudah Sampai Tujuan"
+            }
+        ]
+    },
+    {
+        "Resi": "9092001563C8",
+        "Hari": "Senin",
+        "Tanggal": "27-07-2020",
+        "Waktu": "10:28:18",
+        "CabangAsal": "Semarang",
+        "CabangTujuan": "Bogor",
+        "NamaPengirim": "Kores Bonsapia",
+        "AlamatPengirim": "Jl Perengsari Perum Idaman V",
+        "NoPengirim": "082223388216",
+        "NamaPenerima": "Budi",
+        "AlamatPenerima": "Jl Kemiri no 29 B ",
+        "NoPenerima": "08223438548",
+        "Berat": "1",
+        "Deskripsi": "Document Surat\"",
+        "Jnspengemasan": "Peti Kayu",
+        "Jnspengiriman": "Express",
+        "Biaya": "21.300,00",
+        "Status": "onDestination",
+        "Transaksi": [
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "10:28:18",
+                "Cabang": "Semarang",
+                "Status": "Manifest",
+                "Pesan": "Manifest di Semarang"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:29:05am",
+                "Cabang": "Semarang",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:29:15am",
+                "Cabang": "Semarang",
+                "Status": "Transit",
+                "Pesan": "Barang sudah sampai di Semarang"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:29:30am",
+                "Cabang": "Semarang",
+                "Status": "Sedang Perjalanan",
+                "Pesan": "Sedang Perjalanan"
+            },
+            {
+                "Tanggal": "27-07-2020",
+                "Waktu": "05:33:49am",
+                "Cabang": "Semarang",
+                "Status": "Destination",
+                "Pesan": "Barang sudah sampai di Semarang"
+            }
+        ]
+    }
+]

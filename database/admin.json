@@ -1,0 +1,64 @@
+[{
+    "id": "BRANCH003",
+    "password": "surabaya",
+    "branch": "Surabaya",
+    "lat": -7.243729,
+    "lon": 112.763851
+},
+{
+    "id": "BRANCH001",
+    "password": "semarang",
+    "branch": "Semarang",
+    "lat": -6.998602,
+    "lon": 110.421625
+},
+{
+    "id": "BRANCH002",
+    "password": "jakarta",
+    "branch": "Jakarta",
+    "lat": -6.195081,
+    "lon": 106.797073
+},
+{
+    "id": "BRANCH004",
+    "password": "salatiga",
+    "branch": "Salatiga",
+    "lat": -7.305148,
+    "lon": 110.483394
+    },
+{
+    "id": "BRANCH005",
+    "password": "solo",
+    "branch": "Solo",
+    "lat": -7.305148,
+    "lon": 110.483394
+    },
+{
+    "id": "BRANCH006",
+    "password": "bekasi",
+    "branch": "Bekasi",
+    "lat": -7.305148,
+    "lon": 110.483394
+    },
+{
+    "id": "BRANCH007",
+    "password": "bogor",
+    "branch": "Bogor",
+    "lat": -7.305148,
+    "lon": 110.483394
+    },
+{
+    "id": "BRANCH008",
+    "password": "malang",
+    "branch": "Malang",
+    "lat": -7.305148,
+    "lon": 110.483394
+    },
+{
+    "id": "BRANCH009",
+    "password": "madiun",
+    "branch": "Madiun",
+    "lat": -7.305148,
+    "lon": 110.483394
+    }
+]
